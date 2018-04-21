@@ -9,11 +9,12 @@
 ## 总体目录（暂定）
 
 ### 必修系列
-
-- [必修一](https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E5%BF%85%E4%BF%AE%E4%B8%80%20%E7%94%9F%E5%AD%98%E4%B8%8E%E7%8E%AF%E5%A2%83.md)  生存与环境 现在最新版本，下载安装，介绍编书原因、玩MC的意义、特点等（前言），生存前期能活着的一些+一些探索（单人游戏）
-- [必修二](./必修二 创造与建筑.md)  创造与建筑 讲讲MC中的建筑之美，方块之美 
-- [必修三](./必修三 红石与命令.md)  红石与命令 写一些MC中的红石机关如何建造
-- 必修四  多人与开发 服务器运营+开发
+总目录：https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E6%80%BB%E7%9B%AE%E5%BD%95.md
+- [必修零 启动与配置](https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E5%BF%85%E4%BF%AE%E9%9B%B6%20%E5%90%AF%E5%8A%A8%E4%B8%8E%E9%85%8D%E7%BD%AE.md) 现在最新版本，下载安装，介绍编书原因、玩MC的意义、特点等（前言），
+- [必修一 生存与环境](https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E5%BF%85%E4%BF%AE%E4%B8%80%20%E7%94%9F%E5%AD%98%E4%B8%8E%E7%8E%AF%E5%A2%83.md) 生存前期能活着的一些+一些探索（单人游戏）
+- [必修二 创造与建筑](https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E5%BF%85%E4%BF%AE%E4%BA%8C%20%E5%88%9B%E9%80%A0%E4%B8%8E%E5%BB%BA%E7%AD%91.md)  讲讲MC中的建筑之美，方块之美 
+- [必修三 红石与命令](https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E5%BF%85%E4%BF%AE%E4%B8%89%20%E7%BA%A2%E7%9F%B3%E4%B8%8E%E5%91%BD%E4%BB%A4.md) 写一些MC中的红石机关如何建造
+- [必修四 多人与开发](https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E5%BF%85%E4%BF%AE%E5%9B%9B%20%20%E5%A4%9A%E4%BA%BA%E4%B8%8E%E5%BC%80%E5%8F%91.md)   服务器运营+开发
 
 ### 选修系列
 
