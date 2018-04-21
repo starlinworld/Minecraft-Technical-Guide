@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Author: Bub's, this artwork is *not* copyrighted -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="272" height="200">
+ <path d="M 218,161 C 160,160 151,141 136,122 C 119,104 106,90 54,90 L 54,130 C 80,130 98,137 117,163 C 137,191 173,200 218,200 L 218,161 Z" style="fill:#999"/>
+ <rect x="55" y="90" width="174" height="40" style="fill:#999"/>
+ <path d="M 212,0 L 272,38 L 212,76 L 212,0 Z" style="fill:#00C"/>
+ <path d="M 218,57 C 160,58 151,77 136,95 C 119,114 106,128 54,128 L 54,88 C 80,87 98,80 117,55 C 137,26 173,16 218,18 L 218,57 Z" style="fill:#00C"/>
+ <circle cx="50" cy="110" r="50" style="fill:#00C"/>
+ <path d="M 59,70 C 68,80 64,96 53,107 C 40,118 23,119 15,110 C 6,101 8,83 21,72 C 32,62 50,61 59,70 Z" style="fill:#FFF;fill-opacity:0.4"/>
+ <path d="M 41,69 C 44,73 41,81 35,87 C 27,94 20,96 16,92 C 13,88 16,80 22,74 C 29,67 38,65 41,69 Z" style="fill:#FFF;fill-opacity:0.6"/>
+</svg>
