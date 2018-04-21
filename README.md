@@ -9,7 +9,7 @@
 ## 总体目录（暂定）
 
 ### 必修系列
-总目录：https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E6%80%BB%E7%9B%AE%E5%BD%95.md
+[总目录](https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E6%80%BB%E7%9B%AE%E5%BD%95.md)
 - [必修零 启动与配置](https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E5%BF%85%E4%BF%AE%E9%9B%B6%20%E5%90%AF%E5%8A%A8%E4%B8%8E%E9%85%8D%E7%BD%AE.md) 现在最新版本，下载安装，介绍编书原因、玩MC的意义、特点等（前言），
 - [必修一 生存与环境](https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E5%BF%85%E4%BF%AE%E4%B8%80%20%E7%94%9F%E5%AD%98%E4%B8%8E%E7%8E%AF%E5%A2%83.md) 生存前期能活着的一些+一些探索（单人游戏）
 - [必修二 创造与建筑](https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E5%BF%85%E4%BF%AE%E4%BA%8C%20%E5%88%9B%E9%80%A0%E4%B8%8E%E5%BB%BA%E7%AD%91.md)  讲讲MC中的建筑之美，方块之美 
