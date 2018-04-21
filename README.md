@@ -44,14 +44,9 @@
 
 目前的编辑者：
 
-总主编Hailay
-
-副总主编Grasscraft
+主编Hailay Grasscraft
 
 必修一主编Hailay 必修二主编（？） 必修三主编Grasscraft 
 
-绘图 无
-
-版式设计 无
 
 审读 strickczq
