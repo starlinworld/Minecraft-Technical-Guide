@@ -29,7 +29,7 @@
 ##形式
 
 以高中课本，从必修一开始。
-样板：（试制）![样板图](http://mc.hailay.site/%E5%BF%85%E4%BF%AE%E4%B8%80%20%E7%94%9F%E5%AD%98%E4%B8%8E%E7%8E%AF%E5%A2%83.jpg)
+样板：（试制）![样板图](https://i.loli.net/2018/04/21/5adaa73a41666.jpg)
 如果加载不太好，请点击[http://mc.hailay.site/必修一 生存与环境.jpg](http://mc.hailay.site/%E5%BF%85%E4%BF%AE%E4%B8%80%20%E7%94%9F%E5%AD%98%E4%B8%8E%E7%8E%AF%E5%A2%83.jpg)
 
 ***
