@@ -12,6 +12,8 @@
 ***
 ## 总体目录（暂定）
 
+最新的请咨询编者或讨论
+
 ### 必修系列
 [总目录](https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E6%80%BB%E7%9B%AE%E5%BD%95.md)
 - [必修零 启动与配置](https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E5%BF%85%E4%BF%AE%E9%9B%B6%20%E5%90%AF%E5%8A%A8%E4%B8%8E%E9%85%8D%E7%BD%AE.md) 现在最新版本，下载安装，介绍编书原因、玩MC的意义、特点等（前言），
