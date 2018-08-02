@@ -1,5 +1,5 @@
-# Minecraft-textbook 
-——仿人民教育出版社出版的服务器（不仅用于服务器）教科书
+# Minecraft-book 
+结合一些中学知识
 
 * MC的教材，别人写得很好看，感觉可以结合经历写一本教材，顺带运用所学的知识探究一下MC的原理，以Hailaycraft服务器为基础（单人、多人游戏)，研究并总结MC中的物理、生物、数学、化学、英语、历史、语文、地理知识，加上与初中、高中知识的链接，这样学习更有趣。
 
@@ -10,9 +10,7 @@
 * [mcbbs](http://www.mcbbs.net)
 
 ***
-## 总体目录（暂定）
-
-最新的请咨询编者或讨论
+## 总体目录
 
 ### 必修系列
 [总目录](https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E6%80%BB%E7%9B%AE%E5%BD%95.md)
