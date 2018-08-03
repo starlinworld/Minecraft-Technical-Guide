@@ -5,43 +5,199 @@
 
 * 也可以顺带出一套MC高考题233，研究并按照高考题的类型出，可以来一篇作文题，总分值和高考一样，这样可以顺带深入理解高考如何考，如何玩好人才选拔-高考这个我们与出题者、教材编写者的游戏。把现实当成一场MC，把MC当作现实，这样可能会更有乐趣与兴致吧。
 
-### 编写参考
-* [wiki mc](https://minecraft-zh.gamepedia.com/Minecraft_Wiki)
-* [mcbbs](http://www.mcbbs.net)
+项目首页： <https://github.com/Hailaycraft/Minecraft-book>
 
-***
-## 总体目录
+OneNote：Hailay的笔记本“Minecraft”中的“Minecraft-Book”
 
-### 必修系列
-[总目录](https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E6%80%BB%E7%9B%AE%E5%BD%95.md)
-- [必修零 启动与配置](https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E5%BF%85%E4%BF%AE%E9%9B%B6%20%E5%90%AF%E5%8A%A8%E4%B8%8E%E9%85%8D%E7%BD%AE.md) 现在最新版本，下载安装，介绍编书原因、玩MC的意义、特点等（前言），
-- [必修一 生存与环境](https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E5%BF%85%E4%BF%AE%E4%B8%80%20%E7%94%9F%E5%AD%98%E4%B8%8E%E7%8E%AF%E5%A2%83.md) 生存前期能活着的一些+一些探索（单人游戏）
-- [必修二 创造与建筑](https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E5%BF%85%E4%BF%AE%E4%BA%8C%20%E5%88%9B%E9%80%A0%E4%B8%8E%E5%BB%BA%E7%AD%91.md)  讲讲MC中的建筑之美，方块之美 
-- [必修三 红石与命令](https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E5%BF%85%E4%BF%AE%E4%B8%89%20%E7%BA%A2%E7%9F%B3%E4%B8%8E%E5%91%BD%E4%BB%A4.md) 写一些MC中的红石机关如何建造
-- [必修四 多人与开发](https://github.com/Hailaycraft/Minecraft-Learning-note/blob/master/%E5%BF%85%E4%BF%AE%E5%9B%9B%20%20%E5%A4%9A%E4%BA%BA%E4%B8%8E%E5%BC%80%E5%8F%91.md)   服务器运营+开发
+网站：
 
-### 选修系列
+# 目录
 
-- 选修2-1 探索与战斗 进阶
-- 选修2-2 地图 讲解地图的建造
-- 选修2-3 红石与命令 进阶
-- 选修3-1 模组与插件 更多的插件介绍、进阶使用 大量模组的介绍及使用方式
-- 选修3-2 编程
-- 选修3-3 MC与社会 开发史、多版本的世界，附带MC历史
+需要添加一下链接
 
-***
+ 
 
-##形式
+- Minecraft Book
 
-以高中课本，从必修一开始。
-样板：（试制）![样板图](https://i.loli.net/2018/04/21/5adaa73a41666.jpg)
-如果加载不太好，请点击[http://mc.hailay.site/必修一 生存与环境.jpg](http://mc.hailay.site/%E5%BF%85%E4%BF%AE%E4%B8%80%20%E7%94%9F%E5%AD%98%E4%B8%8E%E7%8E%AF%E5%A2%83.jpg)
+- - 引言
 
-***
-欢迎各位来共同编辑教材~联系方式：Q群189594977
+  - - 参与编写![页01](页01.jpg)
+
+    - Markdown的使用
+
+    - 关于Minecraft
+
+    - - 前言 经久不衰的自由世界——Minecraft
+
+    - 修订记录
+
+  - 1 启动与配置
+
+  - - 1.1 Minecraft游戏内容和主要成就
+
+    - 1.2 游戏准备
+
+    - - Java的安装
+
+      - 启动器选择
+
+      - - Minecraft          Launcher - 官方启动器
+        - 旋律 - 经典的启动器
+        - BCML - 强大的启动器
+        - HMCL - 跨平台的启动器
+        - MCCL - 好看的启动器（目前已经停更）
+        - PCL - 实用的启动器
+
+    - 1.2 各游戏版本特点
+
+    - - 1.7、1.8......各版本的特点（太多可以在后面附录）
+
+    - 1.3 各个客户端特性
+
+    - - Forge
+      - Optifine
+      - LittleLoader
+
+    - 1.4 游戏资源
+
+    - - 资源包
+      - 整合包
+      - 光影包
+
+  - 2 生存与发展
+
+  - - 2.1 融入生存
+
+    - - 2.1.1 创建世界
+      - 2.1.2 生物群系
+
+    - 2.2 开始生存
+
+    - - 2.2.1 收集原木
+      - 2.2.2 合成工具
+      - 2.2.3 采掘矿物
+
+    - 2.3 建房定居
+
+    - - 2.3.1 收集资源
+      - 2.3.2 房屋框架
+      - 2.3.3 房屋内饰
+      - 2.3.4 房屋外饰
+
+    - 2.4 耕作放牧
+
+    - - 2.5.1 农耕作物
+      - 2.5.2 畜牧养殖
+
+    - 2.5 多彩世界
+
+    - 2.6 工业时代
+
+  - 3 红石与建筑
+
+  - 4 多人与开发
+
+  - - 4.1 Java Edition 开服
+
+    - - 4.1.1 成功开服
+
+      - - 4.1.1.1 选择、启动服务端
+
+        - - Vanilla -           官方服务端
+
+          - Forge -           MOD官服
+
+          - Bukkit -           水桶插件服
+
+          - Spigot类 -           水龙头插件服
+
+          - - Spigot
+            - PaperSpigot
+            - TacoSpigot
+            - TorchSpigot
+            - BungeeCord
+
+          - Sponge类 -           海绵插件服
+
+          - - SpongeVinilla
+            - SpongeForge
+            - Glowstone
+
+          - Caludron类           - MOD+插件服
+
+          - - MCPC+
+            - Caludron
+            - KCaludron
+            - Thermos
+
+        - 4.1.1.2 启动服务器
+
+        - 4.1.1.3 插件的下载
+
+        - 4.1.1.4 插件的配置
+
+        - - EssX
+
+        - 4.1.1.5 网络的映射
+
+        - 4.1.1.6 服务器购买
+
+      - 4.1.2 管理服务器
+
+      - - 4.1.2.1 宣传服务器
+        - 4.1.2.2 玩家的管理
+        - 4.1.2.3 数据的保护
+        - 4.1.2.4 人员的分配
+        - 4.1.2.5 错误的处理
+
+      - 4.1.3 优化服务端
+
+      - - 4.1.3.1 脚本优化
+        - 4.1.3.2 参数优化
+        - 4.1.3.3 插件优化
+
+      - 4.1.4 改善服务器
+
+      - - 4.1.4.1 防玩家作弊
+        - 4.1.4.2 更新服务器
+
+    - 4.2 Bedrock Edition开服
+
+    - - 4.2.1 选择服务端
+
+      - - Realms - 官方领域
+        - PocketMine-MP - PM服务端(PHP)
+        - Nukkit - 核能服务端(Java)
+        - Native - 原生服务端(C++)
+
+      - 4.2.2 启动服务端
+
+      - 4.2.3 插件的下载
+
+      - 4.2.4 插件的配置
+
+      - 4.2.5 插件的开发
+
+  - 附录1 参考文献
+
+  - 附录2 推荐阅读
+
+  - 测试题
+
+- [预览](http://book.windmill-town.club/)（点击）
+
+![HailayCraftserver Minecraft教科书](images/页01.jpg)
 
 
 
-## 目前的编辑者：
+# 编写参考
+
+- [wiki mc](https://minecraft-zh.gamepedia.com/Minecraft_Wiki)
+- [mcbbs](http://www.mcbbs.net)
+- [Baidu](http://baidu.com)
+
+# 目前的编辑者
 
 Hailay Grasscraft strickczq
+
+欢迎各位来共同编辑教材~联系方式：Q群：[737744130](http://shang.qq.com/wpa/qunwpa?idkey=d36adb27045affe1e7a68bda61f72f46ab8dff6ee6bd5906b61659dc8ab95df9)
