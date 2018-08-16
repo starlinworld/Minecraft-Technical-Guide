@@ -228,7 +228,7 @@ OneNote：Hailay的笔记本“Minecraft”中的“Minecraft-Book”
   - 附录2 推荐阅读
   - 测试题
 
-- [预览](http://book.windmill-town.club/)（点击）
+# [预览（点击）](http://book.windmill-town.club/)
 
 ![HailayCraftserver Minecraft教科书](images/页01.jpg)
 
