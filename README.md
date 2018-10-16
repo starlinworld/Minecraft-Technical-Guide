@@ -22,3 +22,6 @@ OneNote：Hailay的笔记本“Minecraft”中的“Minecraft-Book”
 Hailay Grasscraft strickczq fxit? ?
 
 欢迎各位来共同编辑教材~联系方式：Q群：[737744130](http://shang.qq.com/wpa/qunwpa?idkey=d36adb27045affe1e7a68bda61f72f46ab8dff6ee6bd5906b61659dc8ab95df9)
+
+* <http://get.ftqq.com/6914.get>互联网出版套路出版
+* <https://www.jianshu.com/p/7c77e23c6cef>简书
