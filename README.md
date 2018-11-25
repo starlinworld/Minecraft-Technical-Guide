@@ -10,11 +10,6 @@
 OneNote：Hailay的笔记本“Minecraft”中的“Minecraft-Book”
 
 
-# [预览(几个月前的版本)（点击）](http://book.windmill-town.club/)
-
-![HailayCraftserver Minecraft教科书](images/页01.jpg)
-
-
 # 目前的编辑者
 
 Hailay Grasscraft strickczq XhuaiRLin Dixon
@@ -24,5 +19,8 @@ Hailay Grasscraft strickczq XhuaiRLin Dixon
 * <http://get.ftqq.com/6914.get>互联网出版套路出版
 * <https://www.jianshu.com/p/7c77e23c6cef>简书
 
-# 协议 CC BY-NC-ND 3.0 CN
+# 协议 
+
+* CC BY-NC-ND 3.0 CN
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/cn/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/cn/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/cn/">知识共享署名-非商业性使用-禁止演绎 3.0 中国大陆许可协议</a>进行许可。
