@@ -7,8 +7,6 @@
 
 项目首页： <https://github.com/Milk-MC/Minecraft-book>
 
-我们的网站：<http://pub.milkmc.net> (暂时没有建好 )
-
 OneNote：Hailay的笔记本“Minecraft”中的“Minecraft-Book”
 
 
