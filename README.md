@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/ver-0.0.0-brightgreen.svg)]() [![](https://img.shields.io/badge/license-CC_BY_NC_ND_3.0_CN-000000.svg)]() 
+
 # Minecraft-book 
 
 项目介绍：
