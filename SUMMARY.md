@@ -11,5 +11,4 @@
   * [参与编写](can-yu-bian-xie/can-yu-bian-xie.md)
 * [修订记录](xiu-ding-ji-lu.md)
 * [参与编写](can-yu-bian-xie-1.md)
-* [必修四  多人与开发](bi-xiu-si-duo-ren-yu-kai-fa.md)
 
