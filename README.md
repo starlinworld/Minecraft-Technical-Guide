@@ -20,8 +20,6 @@ Hailay Grasscraft strickczq XhuaiRLin Dixon
 
 欢迎各位来共同编辑教材~Q群：[737744130](http://shang.qq.com/wpa/qunwpa?idkey=d36adb27045affe1e7a68bda61f72f46ab8dff6ee6bd5906b61659dc8ab95df9)
 
-1
-
 ### 协议
 
 * CC BY-NC-ND 3.0 CN
