@@ -5,5 +5,5 @@
 
 ## MilkMC服务器 <a id="milkmc-server"></a>
 
-* [更新日志](milkmc-server/geng-xin-ri-zhi.md)
+* [更新日志](milkmc-server/update-log.md)
 
