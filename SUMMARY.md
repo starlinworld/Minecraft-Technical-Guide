@@ -3,7 +3,7 @@
 * [Minecraft-book](README.md)
 * [Untitled](untitled.md)
 
-## MilkMC服务器更新记录 <a id="milkmc-server-update-log"></a>
+## MilkMC服务器 <a id="milkmc-server"></a>
 
-* [更新日志](milkmc-server-update-log/geng-xin-ri-zhi.md)
+* [更新日志](milkmc-server/geng-xin-ri-zhi.md)
 
