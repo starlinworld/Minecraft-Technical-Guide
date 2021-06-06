@@ -1,6 +1,6 @@
 # Minecraft-Technical-Guide
 
-![](https://img.shields.io/badge/ver-0.0.0-brightgreen.svg) ![](https://img.shields.io/badge/license-CC_BY_NC_3.0_CN-000000.svg) ![](https://i.creativecommons.org/l/by-nc/3.0/cn/80x15.png)
+![](https://img.shields.io/badge/ver-0.0.0-brightgreen.svg) ![](https://img.shields.io/badge/license-CC_BY_NC-SA_3.0_CN-000000.svg) ![](https://i.creativecommons.org/l/by-nc-sa/3.0/cn/80x15.png)
 
 ### 项目介绍
 这是一个关于 Minecraft 知识总结的项目。我们会在这里，以出版物的水准总结 Minecraft 的相关知识，给予读者全景式的 Minecraft 学习体验体验。我们将在这里 Minecraft 绝大部分的知识，让初学者能从零开始学习知识,也能让老玩家也能从这里学到能进一步提高的知识。同时,总结的知识也可以作为各种 Minecraft 习题的出题依据,出题又可以作为各种服务器的入服知识检测。
@@ -19,5 +19,5 @@ Hailay Neptrue_Lin strickczq XhuaiRLin Dixon
 
 ### 协议
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/cn/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/3.0/cn/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/cn/">知识共享署名-非商业性使用 3.0 中国大陆许可协议</a>进行许可。
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/cn/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议</a>进行许可。
 
