@@ -1,7 +1,3 @@
----
-description: 'Minecraft Technical Guide: Form 0 to ∞（Minecraft 技术指北：从 0 到 ∞）'
----
-
 # Minecraft-Technical-Guide
 
 ![](https://img.shields.io/badge/ver-0.0.0-brightgreen.svg) ![](https://img.shields.io/badge/license-CC_BY_NC_3.0_CN-000000.svg) ![](https://i.creativecommons.org/l/by-nc/3.0/cn/80x15.png)
@@ -17,6 +13,7 @@ Github：[https://github.com/MilkTown/Minecraft-Technical-Guide](https://github.
 ### 目前的编辑者
 
 Hailay Neptrue_Lin strickczq XhuaiRLin Dixon
+
 欢迎各位来共同编辑教材~
 企鹅群：[737744130](http://shang.qq.com/wpa/qunwpa?idkey=d36adb27045affe1e7a68bda61f72f46ab8dff6ee6bd5906b61659dc8ab95df9)
 
