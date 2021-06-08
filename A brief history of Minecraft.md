@@ -45,7 +45,7 @@ Markus Persson 很清楚开发游戏不会给他带来任何的实质收入，�
 
 在一次采访中谈到了游戏的早期开发时，Markus Persson 表示:“Minecraft 实际上是从一款等距战略游戏开始的。”比起其他类型的美工，游戏开发者更倾向于从现有的理念中寻找起点，然后进行修改和润色。尽管如此，游戏开发者仍然很少指责他人抄袭。几乎所有的平台游戏都源自任天堂在 1985 年发行的第一款《超级马里奥兄弟》中设置的机制。或多或少，所有角色扮演游戏都是基于《The Bard’s Tale》等游戏所创造的结构。“借用创意的行为是创造过程中不可或缺的一部分。有些游戏出现在《无尽矿工》之前，也有些游戏出现在 Minecraft 之后。这就是它的工作原理。”Zachary Barth 说到。
 
-就在这个时候，Markus Persson 在 TIGSource 论坛上与一些朋友讨论了这件事，并决定将自己的游戏命名为Minecraft。这个名字是 Mine（矿井）和 Craft（建造）两个词的组合。5 月 16 日，rd-20090515 发布，Cave Game 也改名为了 Minecraft: Order of the Stone，并且加入了泥土、石头、木板并更改了原石和草方块的材质。起初，他想发布另一个姊妹系列的游戏 Order of the Stick，但这个想法在游戏发行前就被废弃了，并在随后的 rd-160052 版更名为现在我们看到的 Minecraft。
+就在这个时候，Markus Persson 在 TIGSource 论坛上与一些朋友讨论了这件事，并决定将自己的游戏命名为Minecraft。这个名字是 Mine（矿井）和 Craft（建造）两个词的组合。5 月 16 日，rd-20090515 发布，Cave Game 也改名为了 Minecraft: Order of the Stone，并且加入了泥土、石头、木板并更改了原石和草方块的材质。起初，Markus Persson 想，作为 Order of the Stick 的粉丝，于是将游戏副标题改为了：Order of the Stone，但这个想法在游戏发行前就被废弃了，并在随后的 rd-160052 版更名为 Minecraft。
 
 Markus Persson 在 Minecraft 融入了许多不同的理念和心血，想得到周围人的认可。在和妈妈喝咖啡时，Markus Persson 试图用手势描述他正在做的新项目。他向她讲述了建筑、探索和氛围，然后解释了如何让游戏既简单又复杂。也许它会发展成某种伟大的东西，他想。也许他应该在工作中发出通知，并专注于 Minecraft 的开发。Ritva 微微笑了笑。她对儿子说，这听起来真是个好主意。但也许他应该从做兼职开始？单靠游戏开发养活自己并不容易。
 
