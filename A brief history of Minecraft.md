@@ -53,3 +53,4 @@ Markus Persson 在 Minecraft 融入了许多不同的理念和心血，想得到
 
 在开发 Minecraft 过程，Markus Persson 公开记录开发过程，并与玩家保持对话，包括他在 TIGSource 的半专业同事和其他可能感兴趣的人。Markus Persson 还经常在博客更新他关于 Minecraft 的变化和他对游戏未来的想法。他邀请所有玩家给他评论和建议。除此之外，他还经常发布更新，根据瑞典谚语“helre än bra”(意思是喜欢自然而不喜欢完美的人)。一旦新功能或漏洞修复到位，他便会通过自己的网站将其呈现出来，并请求玩家帮助进行测试和完善。Markus Persson 脑海中浮现出了他与在 Midasplayer 结交的同事  Jakob Porsér 的谈话——他们想创建一个属于自己游戏工作室。
 
+ ··· TO BE CONTINUED ···
