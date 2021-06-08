@@ -47,10 +47,17 @@ Markus Persson 很清楚开发游戏不会给他带来任何的实质收入，�
 
 就在这个时候，Markus Persson 在 TIGSource 论坛上与一些朋友讨论了这件事，并决定将自己的游戏命名为Minecraft。这个名字是 Mine（矿井）和 Craft（建造）两个词的组合。5 月 16 日，rd-20090515 发布，Cave Game 也改名为了 Minecraft: Order of the Stone，并且加入了泥土、石头、木板并更改了原石和草方块的材质。起初，他想发布另一个姊妹系列的游戏 Order of the Stick，但这个想法在游戏发行前就被废弃了，并在随后的 rd-160052 版更名为现在我们看到的 Minecraft。
 
-Markus Persson 在 Minecraft 融入了许多不同的理念和心血，想得到周围人的认可。在和妈妈喝咖啡时，马库斯试图用手势描述他正在做的新项目。他向她讲述了建筑、探索和氛围，然后解释了如何让游戏既简单又复杂。也许它会发展成某种伟大的东西，他想。也许他应该在工作中发出通知，并专注于 Minecraft 的开发。Ritva 微微笑了笑。她对儿子说，这听起来真是个好主意。但也许他应该从做兼职开始？单靠游戏开发养活自己并不容易。
+Markus Persson 在 Minecraft 融入了许多不同的理念和心血，想得到周围人的认可。在和妈妈喝咖啡时，Markus Persson 试图用手势描述他正在做的新项目。他向她讲述了建筑、探索和氛围，然后解释了如何让游戏既简单又复杂。也许它会发展成某种伟大的东西，他想。也许他应该在工作中发出通知，并专注于 Minecraft 的开发。Ritva 微微笑了笑。她对儿子说，这听起来真是个好主意。但也许他应该从做兼职开始？单靠游戏开发养活自己并不容易。
 
 游戏一开始只能在极其有限的世界里放置和破坏方块，起初也只是工作之余的小项目，2009年5月17日，Markus Persson 在忙碌后在 TIGSource 论坛上发布了 Classic 0.0.11a 版。不出他的所料，游戏在论坛内引起了不错的反响。在谈及开发 Minecraft Classic 的过程时，Markus Persson 说到：“我通常先在屏幕上呈现一些代码，然后再决定这些代码是否可用，或者是否可以执行到整个游戏中”，并将这一过程描述为“一种代码草图”。在 Minecraft 受到广泛的赞誉后，Markus Persson 着手开发新的内容。一个月内，Minecraft 拥有了沙子、水、熔岩和基本的动态照明。不久的一个月后，多人游戏测试也开始了。
 
 在开发 Minecraft 过程，Markus Persson 公开记录开发过程，并与玩家保持对话，包括他在 TIGSource 的半专业同事和其他可能感兴趣的人。Markus Persson 还经常在博客更新他关于 Minecraft 的变化和他对游戏未来的想法。他邀请所有玩家给他评论和建议。除此之外，他还经常发布更新，根据瑞典谚语“helre än bra”(意思是喜欢自然而不喜欢完美的人)。一旦新功能或漏洞修复到位，他便会通过自己的网站将其呈现出来，并请求玩家帮助进行测试和完善。Markus Persson 脑海中浮现出了他与在 Midasplayer 结交的同事  Jakob Porsér 的谈话——他们想创建一个属于自己游戏工作室。
 
  ··· TO BE CONTINUED ···
+ 
+  THANKS TO
+  REFERENCE | DOCUMENTARY: THE STORY OF MOJANG
+  REFERENCE | THE AMAZINGLY UNLIKELY STORY OF HOW MINECRAFT WAS BORN
+  REFERENCE | THE HISTORYOF MINECRAFT - THE BEST SELLING PC GAME OBER
+  REFERENCE | MINECRAFT:A COMPLETE HISTORY OF MINECRAFT
+  
