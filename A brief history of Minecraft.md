@@ -45,13 +45,21 @@ Markus Persson 很清楚开发游戏不会给他带来任何的实质收入，�
 
 在一次采访中谈到了游戏的早期开发时，Markus Persson 表示:“Minecraft 实际上是从一款等距战略游戏开始的。”比起其他类型的美工，游戏开发者更倾向于从现有的理念中寻找起点，然后进行修改和润色。尽管如此，游戏开发者仍然很少指责他人抄袭。几乎所有的平台游戏都源自任天堂在 1985 年发行的第一款《超级马里奥兄弟》中设置的机制。或多或少，所有角色扮演游戏都是基于《The Bard’s Tale》等游戏所创造的结构。“借用创意的行为是创造过程中不可或缺的一部分。有些游戏出现在《无尽矿工》之前，也有些游戏出现在 Minecraft 之后。这就是它的工作原理。”Zachary Barth 说到。
 
-就在这个时候，Markus Persson 在 TIGSource 论坛上与一些朋友讨论了这件事，并决定将自己的游戏命名为Minecraft。这个名字是 Mine（矿井）和 Craft（建造）两个词的组合。5 月 16 日，rd-20090515 发布，Cave Game 也改名为了 Minecraft: Order of the Stone，并且加入了泥土、石头、木板并更改了原石和草方块的材质。起初，Markus Persson 想，作为 Order of the Stick 的粉丝，于是将游戏副标题改为了：Order of the Stone，但这个想法在游戏发行前就被废弃了，并在随后的 rd-160052 版更名为 Minecraft。
+就在这个时候，Markus Persson 在 TIGSource 论坛上与一些朋友讨论了这件事，并决定将自己的游戏命名为Minecraft。这个名字是 Mine（矿井）和 Craft（建造）两个词的组合。5 月 16 日，rd-20090515 发布，Cave Game 也改名为了 Minecraft: Order of the Stone，并且加入了泥土、石头、木板并更改了原石和草方块的材质。起初，Markus Persson 想，作为 Order of the Stick 的粉丝，于是将游戏副标题改为了：Order of the Stone，但这个想法在游戏发行前就被废弃了，根据玩家 RinkuHero 在 Irc 上与 Markus Persson 的谈话，Minecraft 的命名模仿了星际争霸 StarCraft，之后险些被发律师函。在随后的 rd-160052 版 Markus Persson 将游戏更名为 Minecraft。
 
-Markus Persson 在 Minecraft 融入了许多不同的理念和心血，想得到周围人的认可。在和妈妈喝咖啡时，Markus Persson 试图用手势描述他正在做的新项目。他向她讲述了建筑、探索和氛围，然后解释了如何让游戏既简单又复杂。也许它会发展成某种伟大的东西，他想。也许他应该在工作中发出通知，并专注于 Minecraft 的开发。Ritva 微微笑了笑。她对儿子说，这听起来真是个好主意。但也许他应该从做兼职开始？单靠游戏开发养活自己并不容易。
+Markus Persson 在 Minecraft 融入了许多不同的理念和心血，想得到周围人的认可。在与母亲 Ritva 喝咖啡时，Markus Persson 试图用手势描述他正在做的新项目。他向她讲述了建筑、探索和氛围，然后解释了如何让游戏既简单又复杂。也许它会发展成某种伟大的东西，他想。也许他应该在工作中发出通知，并专注于 Minecraft 的开发。Ritva 微微笑了笑。她对儿子说，这听起来真是个好主意。但也许他应该从做兼职开始？单靠游戏开发养活自己并不容易。
 
-游戏一开始只能在极其有限的世界里放置和破坏方块，起初也只是工作之余的小项目，2009年5月17日，Markus Persson 在忙碌后在 TIGSource 论坛上发布了 Classic 0.0.11a 版。不出他的所料，游戏在论坛内引起了不错的反响。在谈及开发 Minecraft Classic 的过程时，Markus Persson 说到：“我通常先在屏幕上呈现一些代码，然后再决定这些代码是否可用，或者是否可以执行到整个游戏中”，并将这一过程描述为“一种代码草图”。在 Minecraft 受到广泛的赞誉后，Markus Persson 着手开发新的内容。一个月内，Minecraft 拥有了沙子、水、熔岩和基本的动态照明。不久的一个月后，多人游戏测试也开始了。
+游戏一开始只能在极其有限的世界里放置和破坏方块，起初也只是工作之余的小项目，2009年5月17日，Markus Persson 在忙碌后在 TIGSource 论坛上发布了第一个 Minecraft 可玩版本。不出他的所料，游戏在论坛内引起了不错的反响。在发帖仅仅几分钟后，就引发开发者的热烈讨论。一位用户鼓励道：“游戏有巨大的潜力，希望你能做些真正优秀的内容。”在 Markus Persson 上传游戏后不到一个小时里，论坛上就出现了第一张 Minecraft 建筑图片。“这太有趣了。我建了一座桥，”上传照片的人写道。有人写道：“我试图造一艘船，但结果太丑了，无法公开。”
 
-在开发 Minecraft 过程，Markus Persson 公开记录开发过程，并与玩家保持对话，包括他在 TIGSource 的半专业同事和其他可能感兴趣的人。Markus Persson 还经常在博客更新他关于 Minecraft 的变化和他对游戏未来的想法。他邀请所有玩家给他评论和建议。除此之外，他还经常发布更新，根据瑞典谚语“helre än bra”(意思是喜欢自然而不喜欢完美的人)。一旦新功能或漏洞修复到位，他便会通过自己的网站将其呈现出来，并请求玩家帮助进行测试和完善。Markus Persson 脑海中浮现出了他与在 Midasplayer 结交的同事  Jakob Porsér 的谈话——他们想创建一个属于自己游戏工作室。
+Markus Persson 怀着极大的兴趣关注着这些帖子，倾听 Bug 报告，并在论坛上与其他人讨论 Minecraft 的未来。Markus Persson 还经常在博客更新他关于 Minecraft 的变化和他对游戏未来的想法。他邀请所有玩家给他评论和建议。他还经常发布更新，根据瑞典谚语“helre än bra”（喜欢自然而不喜欢完美的人）。一旦新功能或漏洞修复到位，他便会通过自己的网站将其呈现出来，并请求玩家帮助进行测试和完善。每天都有许多游戏被上传到 TIGSource 上，但很少有游戏能像Markus的游戏那样引起用户的共鸣。在他的脑海里，开始闪现出一线希望。也许这次他是对的。
+
+在谈及开发 Minecraft Classic 的过程时，Markus Persson 说到：“我通常先在屏幕上呈现一些代码，然后再决定这些代码是否可用，或者是否可以执行到整个游戏中”，并将这一过程描述为“一种代码草图”。在 Minecraft 受到广泛的赞誉后，Markus Persson 着手开发新的内容。一个月内，Minecraft 拥有了沙子、水、熔岩和基本的动态照明。不久的一个月后的 6 月，多人游戏测试也开始了。
+
+6月初，Markus Persson 在他的博客上描述了游戏的定价模式：游戏付费的用户可以免费获得未来的所有更新内容。Minecraft 的免费版本仍然可用，但只有目前的半成品版本。对于那些立即购买 Minecraft 的玩家来说，游戏会提供折扣。当游戏进入 Beta 开发阶段时，价格将提高到 $20，最终版本将花费 $26。6月12日，Markus Persson 收到了人生中第一笔订单，那天有 15 个人购买了这款游戏，在短短 24 小时内，他收到了 $150。
+
+一开始，Markus Persson 认为这些销售只是一时的风潮。但是在 TIGSource 论坛上，关于 Minecraft 游戏热度只增不减。随着游戏的更新，Minecraft 日渐受欢迎，Minecraft 的销量从刚开始的第一天的 15 份销量转变为了 2009 年末的 20000 份，再到后来日销量达到 20000 份，Minecraft 游戏在社区中病毒式的传播，为人们所熟知。Markus Persson 脑海中时常还浮现出了他与在 Midasplayer 结交的同事  Jakob Porsér 的谈话——创建一个属于自己游戏工作室。Minecraft 的销量提高后，他在 jAlbum 的工作从全职改为兼职，并最终在 2010 年 6 月辞职。Markus Persson 邀请了他在 King 的同事 Jakob Porsér 和 jAlbum CEO Carl Manneh 一起成立了最初的 Mojang AB 工作室来全力开发 Minecraft。
+
+
 
  ··· TO BE CONTINUED ···
  
